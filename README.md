@@ -4,6 +4,7 @@
 - [微服务](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/GitHub/GitHub.md#%E5%BE%AE%E6%9C%8D%E5%8A%A1)
 - [源码](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/GitHub/GitHub.md#%E6%BA%90%E7%A0%81)
 - [书籍](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/GitHub/GitHub.md#%E4%B9%A6%E7%B1%8D)
+- [工具](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/GitHub/GitHub.md#%E4%B9%A6%E7%B1%8D)
 
 
 
@@ -41,4 +42,13 @@
 | **<(￣︶￣)> 书籍                                            | **<(￣︶￣)> 内容说明**                                      | 微信 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | 书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~ |      |
+
+
+## 工具
+
+| **<(￣︶￣)> 工具                                            | **<(￣︶￣)> 内容说明**                                      | 微信 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [freefq/free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |      |
+
+
 
